@@ -1,0 +1,8 @@
+.strike
+{
+    text-decoration: line-through;
+    color: red;
+}
+.strike span {
+    color: #444;
+}
